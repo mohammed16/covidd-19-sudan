@@ -1,1 +1,1 @@
-# covidd-19-sudan
+# covid-19-sudan
